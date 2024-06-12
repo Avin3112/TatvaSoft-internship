@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DataLayer",
+    "\\ServiceLayer",
+    "\\ServiceLayer\\Model",
+    "\\WebApplication2",
+    "\\WebApplication2\\Controllers"
+  ],
+  "SelectedNode": "\\ServiceLayer\\BookService.cs",
+  "PreviewInSolutionExplorer": false
+}
